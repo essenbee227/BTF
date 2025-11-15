@@ -24,7 +24,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
-              <Link href="/" className="text-xl font-bold text-green-700 flex items-center">
+              <Link href="/" className="text-xl font-bold text-green-700 flex items-center roboto-condensed-title">
                 <span className="text-2xl mr-1">🌱</span>
                 <span>Dubai GaiaGro</span>
               </Link>

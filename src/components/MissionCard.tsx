@@ -159,7 +159,7 @@ export default function MissionCard({ mission, missionId }: { mission: Mission; 
   }, [missionId]);
 
   return (
-    <div className="bg-white overflow-hidden shadow rounded-lg">
+    <div className="bg-[var(--color-cream)] overflow-hidden shadow rounded-lg">
       <div className="px-4 py-5 sm:p-6">
         <div className="flex items-start justify-between">
           <div className="flex items-center flex-1">

@@ -2,9 +2,9 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-green-50 to-emerald-50">
+    <div className="min-h-screen bg-[var(--color-cream)]">
       {/* Navigation */}
-      <nav className="bg-white shadow-sm">
+      <nav className="bg-[var(--color-cream)] shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
@@ -23,9 +23,9 @@ export default function Home() {
       </nav>
 
       {/* Hero Section */}
-      <div className="relative bg-white overflow-hidden">
+      <div className="relative bg-[var(--color-cream)] overflow-hidden">
         <div className="max-w-7xl mx-auto">
-          <div className="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
+          <div className="relative z-10 pb-8 bg-[var(--color-cream)] sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
             <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
               <div className="sm:text-center lg:text-left">
                 <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
@@ -41,8 +41,8 @@ export default function Home() {
                       Get Started
                     </Link>
                   </div>
-                  <div className="mt-3 sm:mt-0 sm:ml-3">
-                    <Link href="#how-it-works" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-green-700 bg-green-100 hover:bg-green-200 md:py-4 md:text-lg md:px-10">
+                  <div className="mt-3 sm:mt-0 sm:ml-3 rounded-md shadow">
+                    <Link href="#how-it-works" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700 md:py-4 md:text-lg md:px-10">
                       How It Works
                     </Link>
                   </div>
@@ -57,7 +57,7 @@ export default function Home() {
       </div>
 
       {/* How It Works Section */}
-      <div id="how-it-works" className="py-16 bg-white">
+      <div id="how-it-works" className="py-16 bg-[var(--color-cream)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <h2 className="text-base text-green-600 font-semibold tracking-wide uppercase">How It Works</h2>
@@ -100,7 +100,7 @@ export default function Home() {
       </div>
 
       {/* About Section */}
-      <div id="about" className="py-16 bg-gray-50">
+      <div id="about" className="py-16 bg-[var(--color-cream)]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <h2 className="text-base text-green-600 font-semibold tracking-wide uppercase">About Dubai GaiaGro</h2>

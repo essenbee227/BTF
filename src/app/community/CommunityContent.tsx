@@ -93,7 +93,7 @@ export default function CommunityContent() {
       );
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-[var(--color-cream)]">
       <Navbar />
       <main className="py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -140,8 +140,8 @@ export default function CommunityContent() {
 
             <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-3">
               {filteredGroups.map((group, index) => (
-                <div key={index} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
-                  <div className="flex-1 bg-white p-6 flex flex-col justify-between">
+                <div key={index} className="flex flex-col rounded-lg shadow-lg overflow-hidden bg-[var(--color-cream)]">
+                  <div className="flex-1 p-6 flex flex-col justify-between">
                     <div className="flex-1">
                       <div className="flex items-center">
                         <span className="text-2xl mr-3">{group.icon}</span>
@@ -161,7 +161,7 @@ export default function CommunityContent() {
                         {group.tags.map(tag => (
                           <span 
                             key={tag} 
-                            className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800"
+                            className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-white"
                           >
                             {tag}
                           </span>

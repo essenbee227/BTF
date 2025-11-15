@@ -113,7 +113,7 @@ export default async function MissionsPage() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-[var(--color-cream)]">
       <Navbar />
       <main className="py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -127,7 +127,7 @@ export default async function MissionsPage() {
             </p>
             {user && (
               <div className="mt-6">
-                <div className="inline-flex items-center px-6 py-3 bg-green-100 rounded-lg">
+                <div className="inline-flex items-center px-6 py-3 rounded-lg" style={{ backgroundColor: '#f5f0d8' }}>
                   <span className="text-2xl mr-2">🪙</span>
                   <span className="text-lg font-semibold text-green-800">
                     Your EcoCoins: <span className="text-green-600">{user.ecoCoins}</span>

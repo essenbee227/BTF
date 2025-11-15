@@ -1,0 +1,41 @@
+[00:00:00.946] Server  LOG      ✓ Ready in 713ms
+[00:00:03.193] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.438] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:05.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:35.774] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:41.440] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:41.838] Server  LOG      ✓ Compiled in 1668ms
+[00:11:42.705] Server  LOG      ✓ Compiled in 217ms
+[00:11:51.607] Server  LOG      ✓ Compiled in 139ms
+[00:12:30.321] Server  LOG      ✓ Compiled in 455ms
+[00:12:33.968] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:13.761] Server  LOG      ✓ Compiled in 642ms
+[00:13:43.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:47.352] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:15.906] Server  LOG      ✓ Compiled in 996ms
+[00:18:16.291] Server  LOG      ✓ Compiled in 88ms
+[00:19:56.216] Server  LOG      ✓ Compiled in 214ms
+[00:21:33.244] Server  LOG      ✓ Compiled in 151ms
+[00:21:44.858] Server  LOG      ✓ Compiled in 44ms
+[00:26:01.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:32.346] Server  LOG      ○ Compiling /auth/signup ...
+[00:42:55.582] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763191215746_5db7c908e2eb4def.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:57.735] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:58.005] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763191215746_5db7c908e2eb4def.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:05.408] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:47.547] Browser WARN    Image with src "/uploads/missions/cmhzyimv30005ylj9n7gsj16v_1763191747669_8b2df07fae92203a.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:51:49.688] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:49.930] Browser WARN    Image with src "/uploads/missions/cmhzyimv30005ylj9n7gsj16v_1763191747669_8b2df07fae92203a.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:51:56.245] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:44.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:49.277] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192889473_0e8a38da85e7d642.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:10:51.449] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:51.723] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192889473_0e8a38da85e7d642.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:10:51.723] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192889473_0e8a38da85e7d642.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:10:59.485] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:04.290] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192904557_b97392dca64c6060.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:11:06.302] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:06.496] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192904557_b97392dca64c6060.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:11:06.496] Browser WARN    Image with src "/uploads/missions/cmhzyimv30004ylj9fodbjm7l_1763192904557_b97392dca64c6060.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading

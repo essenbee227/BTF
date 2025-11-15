@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/missions/delete-photo/route": "app/api/missions/delete-photo/route.js",
+  "/api/missions/photos/route": "app/api/missions/photos/route.js",
+  "/api/missions/upload-photo/route": "app/api/missions/upload-photo/route.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/community/page": "app/community/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/map/page": "app/map/page.js",
+  "/missions/page": "app/missions/page.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,3 @@
+{
+  "/api/missions/upload-photo/route": "app/api/missions/upload-photo/route.js"
+}

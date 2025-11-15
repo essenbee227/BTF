@@ -1,0 +1,3 @@
+{
+  "/api/missions/delete-photo/route": "app/api/missions/delete-photo/route.js"
+}

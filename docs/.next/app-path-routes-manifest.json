@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/missions/delete-photo/route": "/api/missions/delete-photo",
+  "/api/missions/photos/route": "/api/missions/photos",
+  "/api/missions/upload-photo/route": "/api/missions/upload-photo",
+  "/auth/signin/page": "/auth/signin",
+  "/auth/signup/page": "/auth/signup",
+  "/community/page": "/community",
+  "/favicon.ico/route": "/favicon.ico",
+  "/map/page": "/map",
+  "/missions/page": "/missions",
+  "/page": "/"
+}
